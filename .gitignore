@@ -5,3 +5,4 @@ docs.md
 .ruff_cache
 __pycache__
 order.md
+mcp_a2a_udemy.egg-info/**
